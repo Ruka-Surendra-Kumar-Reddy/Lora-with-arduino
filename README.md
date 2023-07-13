@@ -1,6 +1,5 @@
 # Lora-with-arduino
 
-"Excited to share my latest project involving LoRa technology! 🌐🔌
 
 I recently embarked on a fascinating journey into the world of LoRa and successfully implemented a wireless communication system using SX1278 LoRa modules. 📡 Leveraging the power of SPI, I established seamless connectivity between a transmitter and receiver.
 
